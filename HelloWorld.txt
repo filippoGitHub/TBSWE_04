@@ -1,1 +1,1 @@
-V0.4 HelloWorld changed via local text editor
+V0.4 HelloWorld modified via text editor on Github server (in order to create a conflict for learning purpose)
